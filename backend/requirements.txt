@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+asyncio
+python-dotenv
+hume[stream]
+manim
+moviepy
+openai
+pydub
+pydantic
+anthropic
+lmnt
+groq
+boto3
